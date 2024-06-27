@@ -1,0 +1,14 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": null,
+    "byConnection": {
+      "connectionString": "Data Source=powerbi://api.powerbi.com/v1.0/myorg/MUG_Fabric_2024;Initial Catalog=warehouse_mug_fabric_2024;Access Mode=readonly;Integrated Security=ClaimsToken",
+      "pbiServiceModelId": null,
+      "pbiModelVirtualServerName": "sobe_wowvirtualserver",
+      "pbiModelDatabaseName": "eb6277fd-db71-447f-aeca-ac3e085f67e9",
+      "name": "EntityDataSource",
+      "connectionType": "pbiServiceXmlaStyleLive"
+    }
+  }
+}

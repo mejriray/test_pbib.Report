@@ -1,0 +1,17 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/reportExtension/1.0.0/schema.json",
+  "name": "extension",
+  "entities": [
+    {
+      "name": "rating",
+      "measures": [
+        {
+          "name": "Measure",
+          "expression": "SELECTEDVALUE(rating[rating])",
+          "dataType": "Double",
+          "formatString": "General Number"
+        }
+      ]
+    }
+  ]
+}
